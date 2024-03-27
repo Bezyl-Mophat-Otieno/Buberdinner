@@ -1,0 +1,12 @@
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.contracts\bin\Debug\net8.0\Buberdinner.contracts.deps.json
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.contracts\bin\Debug\net8.0\Buberdinner.contracts.dll
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.contracts\bin\Debug\net8.0\Buberdinner.contracts.pdb
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.contracts\obj\Debug\net8.0\Buberdinner.contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.contracts\obj\Debug\net8.0\Buberdinner.contracts.AssemblyInfoInputs.cache
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.contracts\obj\Debug\net8.0\Buberdinner.contracts.AssemblyInfo.cs
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.contracts\obj\Debug\net8.0\Buberdinner.contracts.csproj.CoreCompileInputs.cache
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.contracts\obj\Debug\net8.0\Buberdinner.contracts.dll
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.contracts\obj\Debug\net8.0\refint\Buberdinner.contracts.dll
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.contracts\obj\Debug\net8.0\Buberdinner.contracts.pdb
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.contracts\obj\Debug\net8.0\ref\Buberdinner.contracts.dll
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.contracts\obj\Debug\net8.0\Buberdinner.contracts.sourcelink.json

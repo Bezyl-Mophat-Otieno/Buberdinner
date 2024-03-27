@@ -1,0 +1,12 @@
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.domain\bin\Debug\net8.0\Buberdinner.domain.deps.json
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.domain\bin\Debug\net8.0\Buberdinner.domain.dll
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.domain\bin\Debug\net8.0\Buberdinner.domain.pdb
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.domain\obj\Debug\net8.0\Buberdinner.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.domain\obj\Debug\net8.0\Buberdinner.domain.AssemblyInfoInputs.cache
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.domain\obj\Debug\net8.0\Buberdinner.domain.AssemblyInfo.cs
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.domain\obj\Debug\net8.0\Buberdinner.domain.csproj.CoreCompileInputs.cache
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.domain\obj\Debug\net8.0\Buberdinner.domain.dll
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.domain\obj\Debug\net8.0\refint\Buberdinner.domain.dll
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.domain\obj\Debug\net8.0\Buberdinner.domain.pdb
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.domain\obj\Debug\net8.0\ref\Buberdinner.domain.dll
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.domain\obj\Debug\net8.0\Buberdinner.domain.sourcelink.json

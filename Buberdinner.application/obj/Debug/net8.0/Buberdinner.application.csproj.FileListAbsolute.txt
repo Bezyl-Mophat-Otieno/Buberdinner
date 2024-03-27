@@ -1,0 +1,16 @@
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.application\bin\Debug\net8.0\Buberdinner.application.deps.json
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.application\bin\Debug\net8.0\Buberdinner.application.dll
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.application\bin\Debug\net8.0\Buberdinner.application.pdb
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.application\bin\Debug\net8.0\Buberdinner.domain.dll
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.application\bin\Debug\net8.0\Buberdinner.domain.pdb
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.application\obj\Debug\net8.0\Buberdinner.application.csproj.AssemblyReference.cache
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.application\obj\Debug\net8.0\Buberdinner.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.application\obj\Debug\net8.0\Buberdinner.application.AssemblyInfoInputs.cache
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.application\obj\Debug\net8.0\Buberdinner.application.AssemblyInfo.cs
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.application\obj\Debug\net8.0\Buberdinner.application.csproj.CoreCompileInputs.cache
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.application\obj\Debug\net8.0\Buberdinner.application.csproj.CopyComplete
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.application\obj\Debug\net8.0\Buberdinner.application.dll
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.application\obj\Debug\net8.0\refint\Buberdinner.application.dll
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.application\obj\Debug\net8.0\Buberdinner.application.pdb
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.application\obj\Debug\net8.0\ref\Buberdinner.application.dll
+C:\Users\BezylMophatOtieno\source\repos\Buberdinner\Buberdinner.application\obj\Debug\net8.0\Buberdinner.application.sourcelink.json
